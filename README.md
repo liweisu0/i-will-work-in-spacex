@@ -2,7 +2,7 @@
 
 Everyone has a dream, and mine is to work at SpaceX.
 
-# Why?
+## Why?
 
 In the time of middle school, I read a lot sci-fiction books,
 such as "The Three-Body Problem" and "Foundation", always dreaming
@@ -12,7 +12,7 @@ in the galaxy, and the most important thing is: save the fire and hope.
 After working, I found that only SpaceX is taking this seriously, and
 it becomes the only company that I want to work for.
 
-# Yes, you will definitely laugh at me
+## Yes, you are definitely laughing at me
 
 My dad: "You? Work in Astronautics? Don't kid me."
 My friends: "Just be careful with 007 workload, you will work into hospital there."

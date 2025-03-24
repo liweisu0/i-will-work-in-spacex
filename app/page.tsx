@@ -7,10 +7,10 @@ export default function Page() {
         I Will Work In SpaceX
       </h1>
       <p className="mb-4">
-        {`I'm a developer in China, and have great passion about what SpaceX now doing.
+        {`I'm a developer in China, and have great passion about what SpaceX is doing.
         Without any hesitate, I launched this project on 2025.3.24, to record my
         journey to SpaceX.
-        The blog below is all the things I do to achieve this goal, so enjoy it.`}
+        The blogs below is all the things I do to achieve this goal, hope enjoy it.`}
       </p>
       <div className="my-8">
         <BlogPosts />
