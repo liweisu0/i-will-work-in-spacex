@@ -7,7 +7,7 @@ export default function Page() {
         I Will Work In SpaceX
       </h1>
       <p className="mb-4">
-          {`I'm from China, a software engineering who want to work in SpaceX.`}
+          {`My name is Roland Su, a software engineer in China, who want to work in SpaceX.`}
       </p>
       <div className="my-8">
         <BlogPosts />

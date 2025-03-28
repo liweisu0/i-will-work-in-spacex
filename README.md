@@ -9,12 +9,12 @@ such as "The Three-Body Problem" and "Foundation", always dreaming
 about human beings travel through the universe, make great history
 in the galaxy, and the most important thing is: save the fire and hope.
 
-After working, I found that only SpaceX is taking this seriously, and
+But sadly, after work, I found no one care about these. When I found that only SpaceX is taking this seriously, and
 it becomes the only company that I want to work for.
 
-## Yes, you are definitely laughing at me
+## It's hard?
 
 My dad: "You? Work in Astronautics? Don't kid me."
 My friends: "Just be careful with 007 workload, you will work into hospital there."
 
-Yup, I know, it's tough. Since everyone has one time of life, I want to make it meaningful to me.
+Yup, I know, it may be tough. Since everyone has one time of life, I want to make it meaningful to me.
